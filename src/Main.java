@@ -12,6 +12,7 @@ public class Main {
         int x = 10;
 
         System.out.println(s);
+        System.out.println("eh Eshmat");
 
 
     }

@@ -6,6 +6,11 @@ public class Main {
             s+=i;
         }
 
+        System.out.println("salom");
+        System.out.println("qale");
+
+        int x = 10;
+
         System.out.println(s);
 
 
